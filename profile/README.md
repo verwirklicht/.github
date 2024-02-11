@@ -1,7 +1,7 @@
 # verwirklicht
 software by humans for humans
 
-## projects
+## Projects
 
 ---
 
