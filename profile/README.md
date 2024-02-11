@@ -1,5 +1,4 @@
 # verwirklicht
-software by humans for humans
 
 ## Projects
 
