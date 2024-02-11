@@ -1,7 +1,7 @@
-# verwirklicht
+# #verwirklicht
 software by humans for humans
 
-## projects
+## #projects
 
 ### [musikal](https://github.com/verwirklicht/musikal)
 
